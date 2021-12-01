@@ -1,0 +1,59 @@
+div {
+  width: 900px;
+  background-color: #121212;
+  margin: -20px auto 0px auto;
+  box-shadow: -8px 0px 6px -6px rgba(0, 247, 255, 0.5),
+    8px 0px 6px -6px rgba(0, 247, 255, 0.5);
+  padding: 10px;
+}
+
+.bloco {
+  background-color: #161b22;
+  margin: 20px auto 0px auto;
+  width: 850px;
+}
+
+.blocoP {
+  background-color: #1b1b1b;
+  margin: 20px auto 0px auto;
+  width: 750px;
+}
+
+.filter{
+  text-indent: 40px;
+  font-size: 15px;
+}
+
+p {
+  text-align: justify;
+  color: #dddddd;
+  text-decoration: none;
+}
+
+
+h2 {
+  font-family: sans-serif;
+  color: #dddddd;
+  font-size: 20pt;
+  text-indent: 20px;
+  padding-bottom: -10px;
+}
+
+
+.mensagem {
+  text-align: center;
+  color: #dddddd;
+  background-color: #1b1b1b;
+  margin: 20px auto 0px auto;
+  width: 750px;
+}
+
+.button {
+  color: #121212;
+  cursor: pointer;
+  background-color: #00F7FF;
+  padding: 5px;
+  width: 80px;
+  box-shadow: -8px 0px 6px -6px rgba(0, 0, 0, 0.5),
+  8px 0px 6px -6px rgba(0, 0, 0, 0.5);
+}

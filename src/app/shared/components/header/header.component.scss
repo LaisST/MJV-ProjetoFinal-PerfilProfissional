@@ -1,0 +1,29 @@
+div {
+  width: 900px;
+  background-color: #121212;
+  margin: -20px auto 0px auto;
+  box-shadow: -8px 0px 6px -6px rgba(0, 247, 255, 0.5),
+    8px 0px 6px -6px rgba(0, 247, 255, 0.5);
+  padding: 10px;
+}
+
+a {
+  color: #dddddd;
+  text-decoration: none;
+  cursor: pointer;
+}
+a:hover {
+  color: #00F7FF
+}
+ul {
+  list-style: none;
+  position: static;
+  padding: -10px;
+  padding-left: 20%;
+  background-color: #161b22;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+}
